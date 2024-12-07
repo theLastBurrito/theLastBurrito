@@ -12,12 +12,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cybersecurity SOAR and EDR        | <a href="https://github.com/theLastBurrito/Cybersecurity-SOAR-and-EDR-Project">Detection Lab</a>|
-| Cybersecurity SOAR and EDR | <a href="https://google.com">Detection Lab</a>|
-| Cybersecurity SOAR and EDR         | SOC Automation Lab|
-| Cybersecurity SOAR and EDR      | SOC Automation Lab|
-| Cybersecurity SOAR and EDR                 | SOC Automation Lab|
-| Cybersecurity SOAR and EDR | SOC Automation Lab|
+| SOAR and EDR project        | <a href="https://github.com/theLastBurrito/Cybersecurity-SOAR-and-EDR-Project">Detection Lab</a>|
+| Vulnerability Management project | <a href="https://github.com/theLastBurrito/Vulnerability-Management-Project">Detection Lab</a>|
+| Elastic SIEM Home Lab roject         | <a href="https://github.com/theLastBurrito/Simple-Elastic-SIEM-Project">Detection Lab</a>|
 
 ## Tools
 
@@ -28,15 +25,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -51,5 +41,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Cybersecurity-SOAR-and-EDR-Project
-- 
+- SOAR-and EDR Project
+- Vulnerability Management Project
+- Simple Elastic SIEM Project
